@@ -1,0 +1,320 @@
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 0
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->10  [0m[1;34m10->11  [0m[1;34m11->12  [0m[1;34m12->13  [0m[1;34m13->14  [0m[1;34m14->15  [0m[1;34m15->16  [0m[1;34m16->17  [0m[1;34m17->18  [0m[1;34m18->19  [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34m	threadid 140687677654784 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 140687669262080 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 140687660869376 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 140687652476672 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 140687644083968 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 140687635691264 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 140687627298560 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 140687618905856 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 140687610513152 -> core 9 - OK[0m[1;34m
+[0m[1;34m	threadid 140687602120448 -> core 10 - OK[0m[1;34m
+[0m[1;34m	threadid 140687593727744 -> core 11 - OK[0m[1;34m
+[0m[1;34m	threadid 140687585335040 -> core 12 - OK[0m[1;34m
+[0m[1;34m	threadid 140687576942336 -> core 13 - OK[0m[1;34m
+[0m[1;34m	threadid 140687568549632 -> core 14 - OK[0m[1;34m
+[0m[1;34m	threadid 140687560156928 -> core 15 - OK[0m[1;34m
+[0m[1;34m	threadid 140687551764224 -> core 16 - OK[0m[1;34m
+[0m[1;34m	threadid 140687543371520 -> core 17 - OK[0m[1;34m
+[0m[1;34m	threadid 140687534978816 -> core 18 - OK[0m[1;34m
+[0m[1;34m	threadid 140687526586112 -> core 19 - OK[0m[1;34m
+[0miterations: 128
+Total iterations: 2549632512 LUP
+FLOP: 6
+Total work: 15297795072 FLOP
+performance: 1.215617 GLUP/s
+Performance in GFLOP/s: 7.293705
+size: 20000000
+time: 2.097397
+diff(a-b): -5.782737
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 0
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->10  [0m[1;34m10->11  [0m[1;34m11->12  [0m[1;34m12->13  [0m[1;34m13->14  [0m[1;34m14->15  [0m[1;34m15->16  [0m[1;34m16->17  [0m[1;34m17->18  [0m[1;34m18->19  [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34m	threadid 139657123907328 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139657115514624 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 139657107121920 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 139657098729216 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 139657090336512 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 139657081943808 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 139657073551104 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 139657065158400 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 139657056765696 -> core 9 - OK[0m[1;34m
+[0m[1;34m	threadid 139657048372992 -> core 10 - OK[0m[1;34m
+[0m[1;34m	threadid 139657039980288 -> core 11 - OK[0m[1;34m
+[0m[1;34m	threadid 139657031587584 -> core 12 - OK[0m[1;34m
+[0m[1;34m	threadid 139657023194880 -> core 13 - OK[0m[1;34m
+[0m[1;34m	threadid 139657014802176 -> core 14 - OK[0m[1;34m
+[0m[1;34m	threadid 139657006409472 -> core 15 - OK[0m[1;34m
+[0m[1;34m	threadid 139656998016768 -> core 16 - OK[0m[1;34m
+[0m[1;34m	threadid 139656989624064 -> core 17 - OK[0m[1;34m
+[0m[1;34m	threadid 139656981231360 -> core 18 - OK[0m[1;34m
+[0m[1;34m	threadid 139656972838656 -> core 19 - OK[0m[1;34m
+[0miterations: 128
+Total iterations: 2549632512 LUP
+FLOP: 6
+Total work: 15297795072 FLOP
+performance: 1.266002 GLUP/s
+Performance in GFLOP/s: 7.596011
+size: 20000000
+time: 2.013925
+diff(a-b): -5.782737
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 0
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->10  [0m[1;34m10->11  [0m[1;34m11->12  [0m[1;34m12->13  [0m[1;34m13->14  [0m[1;34m14->15  [0m[1;34m15->16  [0m[1;34m16->17  [0m[1;34m17->18  [0m[1;34m18->19  [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34m	threadid 139645882021632 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139645873628928 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 139645865236224 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 139645856843520 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 139645848450816 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 139645840058112 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 139645831665408 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 139645823272704 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 139645814880000 -> core 9 - OK[0m[1;34m
+[0m[1;34m	threadid 139645806487296 -> core 10 - OK[0m[1;34m
+[0m[1;34m	threadid 139645798094592 -> core 11 - OK[0m[1;34m
+[0m[1;34m	threadid 139645789701888 -> core 12 - OK[0m[1;34m
+[0m[1;34m	threadid 139645781309184 -> core 13 - OK[0m[1;34m
+[0m[1;34m	threadid 139645772916480 -> core 14 - OK[0m[1;34m
+[0m[1;34m	threadid 139645764523776 -> core 15 - OK[0m[1;34m
+[0m[1;34m	threadid 139645756131072 -> core 16 - OK[0m[1;34m
+[0m[1;34m	threadid 139645747738368 -> core 17 - OK[0m[1;34m
+[0m[1;34m	threadid 139645739345664 -> core 18 - OK[0m[1;34m
+[0m[1;34m	threadid 139645730952960 -> core 19 - OK[0m[1;34m
+[0miterations: 256
+Total iterations: 5099265024 LUP
+FLOP: 6
+Total work: 30595590144 FLOP
+performance: 1.349137 GLUP/s
+Performance in GFLOP/s: 8.094819
+size: 20000000
+time: 3.779651
+diff(a-b): -5.782737
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 0
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->10  [0m[1;34m10->11  [0m[1;34m11->12  [0m[1;34m12->13  [0m[1;34m13->14  [0m[1;34m14->15  [0m[1;34m15->16  [0m[1;34m16->17  [0m[1;34m17->18  [0m[1;34m18->19  [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34m	threadid 140100638365440 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 140100629972736 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 140100621580032 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 140100613187328 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 140100604794624 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 140100596401920 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 140100588009216 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 140100579616512 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 140100571223808 -> core 9 - OK[0m[1;34m
+[0m[1;34m	threadid 140100562831104 -> core 10 - OK[0m[1;34m
+[0m[1;34m	threadid 140100554438400 -> core 11 - OK[0m[1;34m
+[0m[1;34m	threadid 140100546045696 -> core 12 - OK[0m[1;34m
+[0m[1;34m	threadid 140100537652992 -> core 13 - OK[0m[1;34m
+[0m[1;34m	threadid 140100529260288 -> core 14 - OK[0m[1;34m
+[0m[1;34m	threadid 140100520867584 -> core 15 - OK[0m[1;34m
+[0m[1;34m	threadid 140100512474880 -> core 16 - OK[0m[1;34m
+[0m[1;34m	threadid 140100504082176 -> core 17 - OK[0m[1;34m
+[0m[1;34m	threadid 140100495689472 -> core 18 - OK[0m[1;34m
+[0m[1;34m	threadid 140100487296768 -> core 19 - OK[0m[1;34m
+[0miterations: 256
+Total iterations: 5099265024 LUP
+FLOP: 6
+Total work: 30595590144 FLOP
+performance: 1.346971 GLUP/s
+Performance in GFLOP/s: 8.081825
+size: 20000000
+time: 3.785728
+diff(a-b): -5.782737
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 0
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->10  [0m[1;34m10->11  [0m[1;34m11->12  [0m[1;34m12->13  [0m[1;34m13->14  [0m[1;34m14->15  [0m[1;34m15->16  [0m[1;34m16->17  [0m[1;34m17->18  [0m[1;34m18->19  [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34m	threadid 139996484069120 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139996475676416 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 139996467283712 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 139996458891008 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 139996450498304 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 139996442105600 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 139996433712896 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 139996425320192 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 139996416927488 -> core 9 - OK[0m[1;34m
+[0m[1;34m	threadid 139996408534784 -> core 10 - OK[0m[1;34m
+[0m[1;34m	threadid 139996400142080 -> core 11 - OK[0m[1;34m
+[0m[1;34m	threadid 139996391749376 -> core 12 - OK[0m[1;34m
+[0m[1;34m	threadid 139996383356672 -> core 13 - OK[0m[1;34m
+[0m[1;34m	threadid 139996374963968 -> core 14 - OK[0m[1;34m
+[0m[1;34m	threadid 139996366571264 -> core 15 - OK[0m[1;34m
+[0m[1;34m	threadid 139996358178560 -> core 16 - OK[0m[1;34m
+[0m[1;34m	threadid 139996349785856 -> core 17 - OK[0m[1;34m
+[0m[1;34m	threadid 139996341393152 -> core 18 - OK[0m[1;34m
+[0m[1;34m	threadid 139996333000448 -> core 19 - OK[0m[1;34m
+[0miterations: 256
+Total iterations: 5099265024 LUP
+FLOP: 6
+Total work: 30595590144 FLOP
+performance: 1.344307 GLUP/s
+Performance in GFLOP/s: 8.065845
+size: 20000000
+time: 3.793228
+diff(a-b): -5.782737
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 0
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->10  [0m[1;34m10->11  [0m[1;34m11->12  [0m[1;34m12->13  [0m[1;34m13->14  [0m[1;34m14->15  [0m[1;34m15->16  [0m[1;34m16->17  [0m[1;34m17->18  [0m[1;34m18->19  [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34m	threadid 140357835212544 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 140357826819840 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 140357818427136 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 140357810034432 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 140357801641728 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 140357793249024 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 140357784856320 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 140357776463616 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 140357768070912 -> core 9 - OK[0m[1;34m
+[0m[1;34m	threadid 140357759678208 -> core 10 - OK[0m[1;34m
+[0m[1;34m	threadid 140357751285504 -> core 11 - OK[0m[1;34m
+[0m[1;34m	threadid 140357742892800 -> core 12 - OK[0m[1;34m
+[0m[1;34m	threadid 140357734500096 -> core 13 - OK[0m[1;34m
+[0m[1;34m	threadid 140357726107392 -> core 14 - OK[0m[1;34m
+[0m[1;34m	threadid 140357717714688 -> core 15 - OK[0m[1;34m
+[0m[1;34m	threadid 140357709321984 -> core 16 - OK[0m[1;34m
+[0m[1;34m	threadid 140357700929280 -> core 17 - OK[0m[1;34m
+[0m[1;34m	threadid 140357692536576 -> core 18 - OK[0m[1;34m
+[0m[1;34m	threadid 140357684143872 -> core 19 - OK[0m[1;34m
+[0miterations: 256
+Total iterations: 5099265024 LUP
+FLOP: 6
+Total work: 30595590144 FLOP
+performance: 1.347473 GLUP/s
+Performance in GFLOP/s: 8.084840
+size: 20000000
+time: 3.784316
+diff(a-b): -5.782737
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 0
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->10  [0m[1;34m10->11  [0m[1;34m11->12  [0m[1;34m12->13  [0m[1;34m13->14  [0m[1;34m14->15  [0m[1;34m15->16  [0m[1;34m16->17  [0m[1;34m17->18  [0m[1;34m18->19  [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34m	threadid 140028645328640 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 140028636935936 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 140028628543232 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 140028620150528 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 140028611757824 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 140028603365120 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 140028594972416 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 140028586579712 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 140028578187008 -> core 9 - OK[0m[1;34m
+[0m[1;34m	threadid 140028569794304 -> core 10 - OK[0m[1;34m
+[0m[1;34m	threadid 140028561401600 -> core 11 - OK[0m[1;34m
+[0m[1;34m	threadid 140028553008896 -> core 12 - OK[0m[1;34m
+[0m[1;34m	threadid 140028544616192 -> core 13 - OK[0m[1;34m
+[0m[1;34m	threadid 140028536223488 -> core 14 - OK[0m[1;34m
+[0m[1;34m	threadid 140028527830784 -> core 15 - OK[0m[1;34m
+[0m[1;34m	threadid 140028519438080 -> core 16 - OK[0m[1;34m
+[0m[1;34m	threadid 140028511045376 -> core 17 - OK[0m[1;34m
+[0m[1;34m	threadid 140028502652672 -> core 18 - OK[0m[1;34m
+[0m[1;34m	threadid 140028494259968 -> core 19 - OK[0m[1;34m
+[0miterations: 256
+Total iterations: 5099265024 LUP
+FLOP: 6
+Total work: 30595590144 FLOP
+performance: 1.407921 GLUP/s
+Performance in GFLOP/s: 8.447524
+size: 20000000
+time: 3.621841
+diff(a-b): -5.782737
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 0
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->10  [0m[1;34m10->11  [0m[1;34m11->12  [0m[1;34m12->13  [0m[1;34m13->14  [0m[1;34m14->15  [0m[1;34m15->16  [0m[1;34m16->17  [0m[1;34m17->18  [0m[1;34m18->19  [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34m	threadid 139703523731200 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139703515338496 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 139703506945792 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 139703498553088 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 139703490160384 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 139703481767680 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 139703473374976 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 139703464982272 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 139703456589568 -> core 9 - OK[0m[1;34m
+[0m[1;34m	threadid 139703448196864 -> core 10 - OK[0m[1;34m
+[0m[1;34m	threadid 139703439804160 -> core 11 - OK[0m[1;34m
+[0m[1;34m	threadid 139703431411456 -> core 12 - OK[0m[1;34m
+[0m[1;34m	threadid 139703423018752 -> core 13 - OK[0m[1;34m
+[0m[1;34m	threadid 139703414626048 -> core 14 - OK[0m[1;34m
+[0m[1;34m	threadid 139703406233344 -> core 15 - OK[0m[1;34m
+[0m[1;34m	threadid 139703397840640 -> core 16 - OK[0m[1;34m
+[0m[1;34m	threadid 139703389447936 -> core 17 - OK[0m[1;34m
+[0m[1;34m	threadid 139703381055232 -> core 18 - OK[0m[1;34m
+[0m[1;34m	threadid 139703372662528 -> core 19 - OK[0m[1;34m
+[0miterations: 256
+Total iterations: 5099265024 LUP
+FLOP: 6
+Total work: 30595590144 FLOP
+performance: 1.358565 GLUP/s
+Performance in GFLOP/s: 8.151392
+size: 20000000
+time: 3.753419
+diff(a-b): -5.782737
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 0
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->10  [0m[1;34m10->11  [0m[1;34m11->12  [0m[1;34m12->13  [0m[1;34m13->14  [0m[1;34m14->15  [0m[1;34m15->16  [0m[1;34m16->17  [0m[1;34m17->18  [0m[1;34m18->19  [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34m	threadid 140143216744192 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 140143208351488 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 140143199958784 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 140143191566080 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 140143183173376 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 140143174780672 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 140143166387968 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 140143157995264 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 140143149602560 -> core 9 - OK[0m[1;34m
+[0m[1;34m	threadid 140143141209856 -> core 10 - OK[0m[1;34m
+[0m[1;34m	threadid 140143132817152 -> core 11 - OK[0m[1;34m
+[0m[1;34m	threadid 140143124424448 -> core 12 - OK[0m[1;34m
+[0m[1;34m	threadid 140143116031744 -> core 13 - OK[0m[1;34m
+[0m[1;34m	threadid 140143107639040 -> core 14 - OK[0m[1;34m
+[0m[1;34m	threadid 140143099246336 -> core 15 - OK[0m[1;34m
+[0m[1;34m	threadid 140143090853632 -> core 16 - OK[0m[1;34m
+[0m[1;34m	threadid 140143082460928 -> core 17 - OK[0m[1;34m
+[0m[1;34m	threadid 140143074068224 -> core 18 - OK[0m[1;34m
+[0m[1;34m	threadid 140143065675520 -> core 19 - OK[0m[1;34m
+[0miterations: 128
+Total iterations: 2549632512 LUP
+FLOP: 6
+Total work: 15297795072 FLOP
+performance: 1.224063 GLUP/s
+Performance in GFLOP/s: 7.344381
+size: 20000000
+time: 2.082925
+diff(a-b): -5.782737
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 0
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->10  [0m[1;34m10->11  [0m[1;34m11->12  [0m[1;34m12->13  [0m[1;34m13->14  [0m[1;34m14->15  [0m[1;34m15->16  [0m[1;34m16->17  [0m[1;34m17->18  [0m[1;34m18->19  [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34m	threadid 140519990064896 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 140519981672192 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 140519973279488 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 140519964886784 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 140519956494080 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 140519948101376 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 140519939708672 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 140519931315968 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 140519922923264 -> core 9 - OK[0m[1;34m
+[0m[1;34m	threadid 140519914530560 -> core 10 - OK[0m[1;34m
+[0m[1;34m	threadid 140519906137856 -> core 11 - OK[0m[1;34m
+[0m[1;34m	threadid 140519897745152 -> core 12 - OK[0m[1;34m
+[0m[1;34m	threadid 140519889352448 -> core 13 - OK[0m[1;34m
+[0m[1;34m	threadid 140519880959744 -> core 14 - OK[0m[1;34m
+[0m[1;34m	threadid 140519872567040 -> core 15 - OK[0m[1;34m
+[0m[1;34m	threadid 140519864174336 -> core 16 - OK[0m[1;34m
+[0m[1;34m	threadid 140519855781632 -> core 17 - OK[0m[1;34m
+[0m[1;34m	threadid 140519847388928 -> core 18 - OK[0m[1;34m
+[0m[1;34m	threadid 140519838996224 -> core 19 - OK[0m[1;34m
+[0miterations: 256
+Total iterations: 5099265024 LUP
+FLOP: 6
+Total work: 30595590144 FLOP
+performance: 1.361182 GLUP/s
+Performance in GFLOP/s: 8.167094
+size: 20000000
+time: 3.746203
+diff(a-b): -5.782737

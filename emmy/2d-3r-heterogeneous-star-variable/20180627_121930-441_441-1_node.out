@@ -1,0 +1,100 @@
+iterations: 1024
+Total iterations: 193766400 LUP
+FLOP: 25
+Total work: 4844160000 FLOP
+performance: 0.085406 GLUP/s
+Performance in GFLOP/s: 2.135148
+size: 194481
+time: 2.268770
+diff(a-b): 0.257921
+[1;34m[likwid-pin] Main PID -> core 0 - OK[0m
+iterations: 1024
+Total iterations: 193766400 LUP
+FLOP: 25
+Total work: 4844160000 FLOP
+performance: 0.085457 GLUP/s
+Performance in GFLOP/s: 2.136435
+size: 194481
+time: 2.267404
+diff(a-b): 0.257921
+[1;34m[likwid-pin] Main PID -> core 0 - OK[0m
+iterations: 1024
+Total iterations: 193766400 LUP
+FLOP: 25
+Total work: 4844160000 FLOP
+performance: 0.085175 GLUP/s
+Performance in GFLOP/s: 2.129379
+size: 194481
+time: 2.274917
+diff(a-b): 0.257921
+[1;34m[likwid-pin] Main PID -> core 0 - OK[0m
+iterations: 1024
+Total iterations: 193766400 LUP
+FLOP: 25
+Total work: 4844160000 FLOP
+performance: 0.086106 GLUP/s
+Performance in GFLOP/s: 2.152661
+size: 194481
+time: 2.250313
+diff(a-b): 0.257921
+[1;34m[likwid-pin] Main PID -> core 0 - OK[0m
+iterations: 1024
+Total iterations: 193766400 LUP
+FLOP: 25
+Total work: 4844160000 FLOP
+performance: 0.086073 GLUP/s
+Performance in GFLOP/s: 2.151814
+size: 194481
+time: 2.251198
+diff(a-b): 0.257921
+[1;34m[likwid-pin] Main PID -> core 0 - OK[0m
+iterations: 1024
+Total iterations: 193766400 LUP
+FLOP: 25
+Total work: 4844160000 FLOP
+performance: 0.083858 GLUP/s
+Performance in GFLOP/s: 2.096456
+size: 194481
+time: 2.310642
+diff(a-b): 0.257921
+[1;34m[likwid-pin] Main PID -> core 0 - OK[0m
+iterations: 1024
+Total iterations: 193766400 LUP
+FLOP: 25
+Total work: 4844160000 FLOP
+performance: 0.083461 GLUP/s
+Performance in GFLOP/s: 2.086521
+size: 194481
+time: 2.321645
+diff(a-b): 0.257921
+[1;34m[likwid-pin] Main PID -> core 0 - OK[0m
+iterations: 1024
+Total iterations: 193766400 LUP
+FLOP: 25
+Total work: 4844160000 FLOP
+performance: 0.085959 GLUP/s
+Performance in GFLOP/s: 2.148985
+size: 194481
+time: 2.254162
+diff(a-b): 0.257921
+[1;34m[likwid-pin] Main PID -> core 0 - OK[0m
+iterations: 1024
+Total iterations: 193766400 LUP
+FLOP: 25
+Total work: 4844160000 FLOP
+performance: 0.085156 GLUP/s
+Performance in GFLOP/s: 2.128895
+size: 194481
+time: 2.275434
+diff(a-b): 0.257921
+[1;34m[likwid-pin] Main PID -> core 0 - OK[0m
+iterations: 1024
+Total iterations: 193766400 LUP
+FLOP: 25
+Total work: 4844160000 FLOP
+performance: 0.084728 GLUP/s
+Performance in GFLOP/s: 2.118196
+size: 194481
+time: 2.286927
+diff(a-b): 0.257921
+[1;34m[likwid-pin] Main PID -> core 0 - OK[0m
