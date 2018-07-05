@@ -12,7 +12,7 @@
 void* aligned_malloc(size_t, size_t);
 extern int var_false;
 void dummy(double *);
-extern void kernel_loop(double *a, double *b, double *W, int M, int N);
+extern void kernel_loop(double *a, double *b, double c0, double c1, int M, int N);
 int main(int argc, char **argv)
 {
   
@@ -38,10 +38,10 @@ int main(int argc, char **argv)
   for (int i = 0; i < (M * N); ++i)
     b[i] = rand() / ((double ) RAND_MAX);
 
-  double *W = aligned_malloc((sizeof(double)) * ((M * N) * 13), 32);
-  for (int i = 0; i < ((M * N) * 13); ++i)
-    W[i] = (rand() / ((double ) RAND_MAX)) / 15.0;
-
+  double c0;
+  c0 = (rand() / ((double ) RAND_MAX)) / 4.0;
+  double c1;
+  c1 = (rand() / ((double ) RAND_MAX)) / 4.0;
   int repeat = 1;
   double runtime = 0.0;
   double wct_start;
@@ -53,7 +53,7 @@ int main(int argc, char **argv)
   /* Warmup: 2 iterations*/;
   for (int n = 0; n < 2; ++n)
   {
-    kernel_loop(a, b, W, M, N);
+    kernel_loop(a, b, c0, c1, M, N);
     tmp = a;
     a = b;
     b = tmp;
@@ -72,7 +72,7 @@ int main(int argc, char **argv)
     timing(&wct_start, &cput_start);
     for (int n = 0; n < repeat; ++n)
     {
-      kernel_loop(a, b, W, M, N);
+      kernel_loop(a, b, c0, c1, M, N);
       tmp = a;
       a = b;
       b = tmp;
@@ -93,17 +93,17 @@ int main(int argc, char **argv)
 
   repeat /= 2;
   printf("iterations: %d\n", repeat);
-  printf("Total iterations: %lld LUP\n", ((long long ) repeat) * (((long long ) (M - 6)) * ((long long ) (N - 6))));
-  printf("FLOP: 25\n");
-  printf("Total work: %lld FLOP\n", (((long long ) repeat) * (((long long ) (M - 6)) * ((long long ) (N - 6)))) * 25);
-  printf("performance: %lf GLUP/s\n", ((((double ) repeat) * (((double ) (M - 6)) * ((double ) (N - 6)))) / runtime) / 1000000000.);
-  printf("Performance in GFLOP/s: %lf\n", (((((double ) repeat) * (((double ) (M - 6)) * ((double ) (N - 6)))) * 25) / runtime) / 1000000000.);
+  printf("Total iterations: %lld LUP\n", ((long long ) repeat) * (((long long ) (M - 2)) * ((long long ) (N - 2))));
+  printf("FLOP: 6\n");
+  printf("Total work: %lld FLOP\n", (((long long ) repeat) * (((long long ) (M - 2)) * ((long long ) (N - 2)))) * 6);
+  printf("performance: %lf GLUP/s\n", ((((double ) repeat) * (((double ) (M - 2)) * ((double ) (N - 2)))) / runtime) / 1000000000.);
+  printf("Performance in GFLOP/s: %lf\n", (((((double ) repeat) * (((double ) (M - 2)) * ((double ) (N - 2)))) * 6) / runtime) / 1000000000.);
   printf("size: %d\n", (M * N));
   printf("time: %lf\n", runtime);
   double total = 0.0;
-  for (int j = 3; j < (M - 3); j++)
+  for (int j = 1; j < (M - 1); j++)
   {
-    for (int i = 3; i < (N - 3); i++)
+    for (int i = 1; i < (N - 1); i++)
     {
       total = total + (a[i + (j * N)] - b[i + (j * N)]);
     }
